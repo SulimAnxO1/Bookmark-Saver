@@ -64,6 +64,27 @@ button:hover {
 #bookmark-list {
   list-style: none;
   padding: 0;
+  max-height: 400px;
+  overflow: auto;
+  padding-right: 8px;
+}
+
+#bookmark-list::-webkit-scrollbar {
+  width: 5px;
+}
+
+#bookmark-list::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+  border-radius: 4px;
+}
+
+#bookmark-list::-webkit-scrollbar-thumb {
+  background-color: #cbd5e0;
+  border-radius: 4px;
+}
+
+#bookmark-list::-webkit-scrollbar-thumb:hover {
+  background-color: #a0aec0;
 }
 
 #bookmark-list li {
