@@ -1,6 +1,6 @@
 # 🔖 Bookmark Saver
 
-A clean and simple **Bookmark Saver App** built with HTML, CSS, and JavaScript.  
+A clean and simple **Bookmark Saver App** built with **HTML**, **CSS**, and **JavaScript**.  
 It allows users to easily save, view, and manage their favorite website links directly from the browser.
 
 ---
