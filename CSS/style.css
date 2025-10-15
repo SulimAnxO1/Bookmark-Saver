@@ -64,7 +64,7 @@ button:hover {
 #bookmark-list {
   list-style: none;
   padding: 0;
-  max-height: 400px;
+  max-height: 300px;
   overflow: auto;
   padding-right: 8px;
 }
@@ -99,7 +99,7 @@ button:hover {
 }
 
 #bookmark-list a {
-  color: #2ecc71;
+  color: #3d1df1;
   text-decoration: none;
 }
 
